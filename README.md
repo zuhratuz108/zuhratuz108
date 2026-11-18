@@ -1,4 +1,15 @@
 
+# Fatema Tuz Zuhra
+### Urban Planner | Environmental Researcher | Geospatial Data Analyst
+
+I am an Urban and Regional Planner and Researcher currently pursuing a Master of Urban and Regional Planning at Bangladesh University of Engineering and Technology (BUET). My research explores the intersection of urban development, environmental sustainability, climate change, and geospatial science.
+
+My work focuses on applying Remote Sensing, GIS, spatial statistics, and machine learning to investigate urban and environmental challenges. I am particularly interested in understanding spatial patterns, environmental vulnerability, ecosystem dynamics, and the implications of urban transformation.
+
+I enjoy combining geospatial technologies with quantitative research methods to generate evidence that supports sustainable planning and policy decisions.
+
+**Research interests:** Urban Sustainability · Environmental Modelling · Climate Science · Ecosystem Stability · Spatial Data Science · Remote Sensing
+
 ## Research Portfolio
 
 My research spans urban and environmental planning, climate science, geospatial analysis, and spatial modelling. I work with multi-source geospatial datasets, remote sensing, statistical modelling, and machine learning to investigate complex urban and environmental challenges.
@@ -86,3 +97,54 @@ DOI: https://doi.org/10.1088/2515-7620/ad6760
 Zuhra, F. T., Sultana, S., & Ishra, A. K. (2026). Proceedings of the 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026), KUET, Bangladesh.
 
 Full paper: https://iccesd.kuet.ac.bd/2026/Papers/714.pdf
+
+
+---
+
+## Education
+
+**M.URP — Master of Urban and Regional Planning**  
+Bangladesh University of Engineering and Technology (BUET) | 2023–Present  
+CGPA: 3.41/4.00 | Thesis ongoing
+
+**B.URP — Bachelor of Urban and Regional Planning**  
+Khulna University of Engineering and Technology (KUET) | 2017–2022  
+CGPA: 3.52/4.00 | University Technical Scholarship (4 years)
+
+## Professional Experience
+
+**Research Associate**  
+Bangladesh Institute of Governance and Management (BIGM) | January 2025–Present
+
+**Junior Urban Planner**  
+Development Design Consultants Ltd. | January–June 2023
+
+**Intern**  
+Capital Development Authority (RAJUK) | April–June 2022
+
+## Technical Skills
+
+**GIS & Remote Sensing**
+- ArcGIS Pro, ArcGIS, QGIS
+- Google Earth Engine
+- ERDAS Imagine, TerrSet
+- ArcGIS Online, ArcGIS StoryMaps
+
+**Programming & Data Analysis**
+- Python, R, JavaScript
+- RStudio, SPSS, STATA, Excel
+
+**Research & Modelling**
+- Machine Learning and Random Forest
+- Spatial Statistics and Spatial Econometrics
+- AHP and Multi-Criteria Decision Analysis
+- LULC Classification and Change Detection
+- Spatial Autocorrelation and Regression Modelling
+
+## Connect With Me
+
+- Email: zuhratuz108@gmail.com
+- GitHub: [@zuhratuz108](https://github.com/zuhratuz108)
+- Portfolio: [zuhratuz108.github.io](https://zuhratuz108.github.io)
+
+
