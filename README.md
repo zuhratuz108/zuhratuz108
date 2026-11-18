@@ -105,11 +105,9 @@ Full paper: https://iccesd.kuet.ac.bd/2026/Papers/714.pdf
 
 **M.URP — Master of Urban and Regional Planning**  
 Bangladesh University of Engineering and Technology (BUET) | 2023–Present  
-CGPA: 3.41/4.00 | Thesis ongoing
 
 **B.URP — Bachelor of Urban and Regional Planning**  
 Khulna University of Engineering and Technology (KUET) | 2017–2022  
-CGPA: 3.52/4.00 | University Technical Scholarship (4 years)
 
 ## Professional Experience
 
@@ -122,24 +120,34 @@ Development Design Consultants Ltd. | January–June 2023
 **Intern**  
 Capital Development Authority (RAJUK) | April–June 2022
 
+
 ## Technical Skills
 
-**GIS & Remote Sensing**
-- ArcGIS Pro, ArcGIS, QGIS
-- Google Earth Engine
-- ERDAS Imagine, TerrSet
-- ArcGIS Online, ArcGIS StoryMaps
+### GIS & Remote Sensing
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERDAS_Imagine-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TerrSet-555555?style=for-the-badge"/>
+</p>
 
-**Programming & Data Analysis**
-- Python, R, JavaScript
-- RStudio, SPSS, STATA, Excel
+### Programming & Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge"/>
+</p>
 
-**Research & Modelling**
+### Research & Modelling
 - Machine Learning and Random Forest
 - Spatial Statistics and Spatial Econometrics
 - AHP and Multi-Criteria Decision Analysis
 - LULC Classification and Change Detection
 - Spatial Autocorrelation and Regression Modelling
+
 
 ## Connect With Me
 
