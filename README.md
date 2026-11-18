@@ -146,5 +146,6 @@ Capital Development Authority (RAJUK) | April–June 2022
 - Email: zuhratuz108@gmail.com
 - GitHub: [@zuhratuz108](https://github.com/zuhratuz108)
 - Portfolio: [zuhratuz108.github.io](https://zuhratuz108.github.io)
+- LinkedIn: [https://www.linkedin.com/in/zuhra-tuz/](https://www.linkedin.com/in/zuhra-tuz/)
 
 
